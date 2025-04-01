@@ -96,7 +96,7 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 
 # Database settings (for PostgreSQL)
 POSTGRES_DB=support_db
-POSTGRES_USER=support_user
+POSTGRES_USER=postgres
 POSTGRES_PASSWORD=support_password
 DB_HOST=127.0.0.1
 DB_PORT=5432
